@@ -1,0 +1,12 @@
+html,
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  font-size:larger;
+  margin-top: 2px;
+}
