@@ -10,3 +10,7 @@ p {
   font-size:larger;
   margin-top: 2px;
 }
+
+video {
+  pointer-events: none !important;
+}
